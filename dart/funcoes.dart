@@ -7,4 +7,5 @@ main() {
   int func(a,b) =>  a + b; 
 
   print('Valor da soma é: ${soma(2, 2, func)}');
+  
 }
